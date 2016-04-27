@@ -15,5 +15,5 @@ A robust and efficient model to identify both the recurrently group-wised and in
 3. Code execute: 
 	Please run Experiment_Simulated.m, Expeirment_Pig_Data.m and Experiment_Breast_Cancer.m to conduct the exriments on different datasets.
 
-4 Contact:
+4. Contact:
    hmcai@scut.edu.cn
